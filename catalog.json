@@ -4,10 +4,10 @@
         {
             "type": "platform",
             "product": "data.platform",
-            "version": "0.1.18",
-            "artifact_url": "https://github.com/hfsskm1976-code/data-os-updates/releases/download/v0.1.18/DATA-Platform-0.1.18-runtime.zip",
-            "sha256": "94f8d17d38b2b89f1c862fdb7e5be34fb054cb73b07b60f1d5c74274327da3c7",
-            "size": 166399413
+            "version": "0.1.19",
+            "artifact_url": "https://github.com/hfsskm1976-code/data-os-updates/releases/download/v0.1.19/DATA-Platform-0.1.19-runtime.zip",
+            "sha256": "f3fe8d1bd3f36a7d3138f0d0c18ea03158f1a98551ee44af3824ad7b2d790c24",
+            "size": 166402200
         }
     ]
 }
