@@ -1,0 +1,13 @@
+{
+    "schema": "data.online-update-catalog.v1",
+    "releases": [
+        {
+            "type": "platform",
+            "product": "data.platform",
+            "version": "0.1.16",
+            "artifact_url": "https://github.com/hfsskm1976-code/data-os-updates/releases/download/v0.1.16/DATA-Platform-0.1.16-runtime.zip",
+            "sha256": "03f0cc28efb7f7a88ee724d5bcf8642bf03d7e871cb64461519daac8781bcee3",
+            "size": 166387378
+        }
+    ]
+}
