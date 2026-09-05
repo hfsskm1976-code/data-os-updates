@@ -1,13 +1,13 @@
 {
-  "schema": "data.online-update-catalog.v1",
-  "releases": [
-    {
-      "type": "platform",
-      "product": "data.platform",
-      "version": "0.1.40",
-      "artifact_url": "https://github.com/hfsskm1976-code/data-os-updates/releases/download/v0.1.40/DATA-Platform-0.1.40-runtime.zip",
-      "sha256": "ffd75d94f8f0df0acf6454dd8dbd512d440d464288beeba9d57ebc22b922b22d",
-      "size": 166521147
-    }
-  ]
+    "schema": "data.online-update-catalog.v1",
+    "releases": [
+        {
+            "type": "platform",
+            "product": "data.platform",
+            "version": "0.1.41",
+            "artifact_url": "https://github.com/hfsskm1976-code/data-os-updates/releases/download/v0.1.41/DATA-Platform-0.1.41-runtime.zip",
+            "sha256": "b260438dbcc7ed8ca67fe4be48af1419b7fd3e5328b5ef565158112a280200e1",
+            "size": 166522327
+        }
+    ]
 }
